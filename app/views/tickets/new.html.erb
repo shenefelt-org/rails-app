@@ -1,0 +1,17 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head>
+
+<main class="container">
+  <nav aria-label="breadcrumb" style="margin-bottom: 2rem;">
+    <ul>
+      <li><%= link_to "🏠 All Tickets", tickets_path %></li>
+      <li>New Ticket</li>
+    </ul>
+  </nav>
+
+  <h1 style="margin-bottom: 2rem;">Open a New Ticket</h1>
+
+  <%= render "form", ticket: @ticket %>
+
+</main>

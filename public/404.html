@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>404 - Page Not Found</title>
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+  
+  <style>
+    /* Custom styles for centering and cuteness */
+    body {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      background-color: var(--pico-background-color);
+    }
+
+    .lost-creature {
+      font-size: 5rem;
+      margin-bottom: 0;
+      /* Adds a gentle floating effect */
+      animation: float 3s ease-in-out infinite; 
+    }
+
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-15px); }
+      100% { transform: translateY(0px); }
+    }
+
+    h1 {
+      font-size: 3rem;
+      margin-top: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      color: var(--pico-muted-color);
+      font-size: 1.2rem;
+      margin-bottom: 2rem;
+    }
+
+    /* Make the button a little softer */
+    .pico-btn {
+      border-radius: 2rem;
+      padding: 0.75rem 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <main class="container">
+    <article style="background: transparent; border: none; box-shadow: none;">
+      <div class="lost-creature">👻</div>
+      <h1>Oops! 404</h1>
+      <p>Oh no! This little ghost couldn't find the page you're looking for.</p>
+      <a href="/" role="button" class="pico-btn">Guide them back home</a>
+    </article>
+  </main>
+
+</body>
+</html>

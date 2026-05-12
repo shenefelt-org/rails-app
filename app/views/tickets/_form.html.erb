@@ -1,0 +1,50 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head>
+<%= form_with(model: ticket) do |form| %>
+  <article>
+    <header>
+      <h2 style="margin-bottom: 0;">🎫 Ticket Details</h2>
+    </header>
+
+    <%# Error Handling Block %>
+    <% if ticket.errors.any? %>
+      <div style="color: var(--pico-del-color); margin-bottom: 2rem;">
+        <strong><%= pluralize(ticket.errors.count, "error") %> prohibited this ticket from being saved:</strong>
+        <ul>
+          <% ticket.errors.each do |error| %>
+            <li><%= error.full_message %></li>
+          <% end %>
+        </ul>
+      </div>
+    <% end %>
+
+    <%# The Grid class puts Title and Priority side-by-side on desktop, stacking on mobile %>
+    <div class="grid">
+      <div>
+        <%= form.label :title %>
+        <%= form.text_field :title, placeholder: "e.g., Server is on fire", required: true %>
+      </div>
+
+      <div>
+        <%= form.label :priority %>
+        <%= form.select :priority, ["Low", "Normal", "High", "Critical"], prompt: "Select a priority...", required: true %>
+      </div>
+    </div>
+
+    <div>
+      <%= form.label :status %>
+      <%= form.select :status, ["Open", "In Progress", "Waiting on User", "Resolved"], prompt: "Current status...", required: true %>
+    </div>
+
+    <div>
+      <%= form.label :body, "Description" %>
+      <%= form.text_area :body, rows: 6, placeholder: "Describe the issue in detail...", required: true %>
+    </div>
+
+    <footer style="display: flex; gap: 1rem; align-items: center; margin-top: 1rem;">
+      <%= form.submit "Save Ticket", class: "pico-btn", style: "border-radius: 2rem; padding: 0.75rem 2rem; margin-bottom: 0;" %>
+      <%= link_to "Cancel", tickets_path, role: "button", class: "secondary outline", style: "border-radius: 2rem; padding: 0.75rem 2rem; margin-bottom: 0;" %>
+    </footer>
+  </article>
+<% end %>

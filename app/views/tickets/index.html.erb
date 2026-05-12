@@ -1,0 +1,21 @@
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head <% @tickets.each do |ticket| %>
+<div class="ticket">
+    <h2>
+        <span>
+            <%= ticket.title %>
+        </span>
+    </h2>
+    <p>
+        Message: <span>
+            <%= ticket.body %>
+        </span>
+    </p>
+    <p>Status: <span></span>
+        <%= ticket.status %></span>
+    </p>
+    <p>Priority: <%= ticket.priority %>
+    </p>
+</div>
+<% end %>

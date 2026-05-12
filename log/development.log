@@ -1,0 +1,154 @@
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (107.6ms)[0m  [1m[35mCREATE DATABASE "rails_production" ENCODING = 'unicode' /*application='App'*/[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (107.4ms)[0m  [1m[35mCREATE DATABASE "rails_production" ENCODING = 'unicode' /*application='App'*/[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (107.3ms)[0m  [1m[35mCREATE DATABASE "rails_production" ENCODING = 'unicode' /*application='App'*/[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (109.3ms)[0m  [1m[35mCREATE DATABASE "rails_production" ENCODING = 'unicode' /*application='App'*/[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (107.7ms)[0m  [1m[35mCREATE DATABASE "rails_production" ENCODING = 'unicode' /*application='App'*/[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mLOCAL_DB[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[35m (109.7ms)[0m  [1m[35mCREATE DATABASE "rails_production" ENCODING = 'unicode' /*application='App'*/[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mLOCAL_DB[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (2.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT pg_try_advisory_lock(3912379420842398520) /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Load (1.5ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='App'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Update (10.3ms)[0m  [1m[33mUPDATE "ar_internal_metadata" SET "value" = 'development', "updated_at" = '2026-05-11 18:51:49.799992' WHERE "ar_internal_metadata"."key" = 'environment' /*application='App'*/[0m
+Migrating to CreateTechnicans (20260511184556)
+  [1m[36mTRANSACTION (0.5ms)[0m  [1m[35mBEGIN /*application='App'*/[0m
+  [1m[35m (21.0ms)[0m  [1m[35mCREATE TABLE "technicans" ("id" bigserial primary key, "name" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL) /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.9ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ('20260511184556') RETURNING "version" /*application='App'*/[0m
+  [1m[36mTRANSACTION (29.6ms)[0m  [1m[35mCOMMIT /*application='App'*/[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT pg_advisory_unlock(3912379420842398520) /*application='App'*/[0m
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT pg_try_advisory_lock(3912379420842398520) /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Load (1.4ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='App'*/[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT pg_advisory_unlock(3912379420842398520) /*application='App'*/[0m
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT pg_try_advisory_lock(3912379420842398520) /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (4.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Load (3.1ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='App'*/[0m
+  [1m[35m (2.5ms)[0m  [1m[34mSELECT pg_advisory_unlock(3912379420842398520) /*application='App'*/[0m
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT pg_try_advisory_lock(3912379420842398520) /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::InternalMetadata Load (1.9ms)[0m  [1m[34mSELECT * FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = 'environment' ORDER BY "ar_internal_metadata"."key" ASC LIMIT 1 /*application='App'*/[0m
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT pg_advisory_unlock(3912379420842398520) /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[35mSET search_path TO public /*application='App'*/[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[35mSET search_path TO "$user", public /*application='App'*/[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[35mSET search_path TO public /*application='App'*/[0m
+  [1m[35mSQL (0.7ms)[0m  [1m[35mSET search_path TO "$user", public /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (2.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[35mSET search_path TO public /*application='App'*/[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[35mSET search_path TO "$user", public /*application='App'*/[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[35mSET search_path TO public /*application='App'*/[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[35mSET search_path TO "$user", public /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[35mSET search_path TO public /*application='App'*/[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[35mSET search_path TO "$user", public /*application='App'*/[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[35mSET search_path TO public /*application='App'*/[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[35mSET search_path TO "$user", public /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[35mSET search_path TO public /*application='App'*/[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[35mSET search_path TO "$user", public /*application='App'*/[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[35mSET search_path TO public /*application='App'*/[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[35mSET search_path TO "$user", public /*application='App'*/[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='App'*/[0m
+  [1m[36mTRANSACTION (0.5ms)[0m  [1m[35mBEGIN /*application='App'*/[0m
+  [1m[36mTechnican Create (4.3ms)[0m  [1m[32mINSERT INTO "technicans" ("name", "created_at", "updated_at") VALUES ('Alice Smith', '2026-05-11 18:56:47.301978', '2026-05-11 18:56:47.301978') RETURNING "id" /*application='App'*/[0m
+  [1m[36mTRANSACTION (3.6ms)[0m  [1m[35mCOMMIT /*application='App'*/[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+  [1m[36mTechnican Load (79.5ms)[0m  [1m[34mSELECT "technicans".* FROM "technicans" /*application='App'*/[0m
+  [1m[36mTechnican Exists? (0.6ms)[0m  [1m[34mSELECT 1 AS one FROM "technicans" LIMIT 1 /*application='App'*/[0m
+  [1m[36mTechnican Load (1.0ms)[0m  [1m[34mSELECT "technicans".* FROM "technicans" /*application='App'*/[0m
+  [1m[36mTechnican Load (0.9ms)[0m  [1m[34mSELECT "technicans".* FROM "technicans" /*application='App'*/[0m
+  [1m[36mTechnican Load (0.8ms)[0m  [1m[34mSELECT "technicans".* FROM "technicans" /*application='App'*/[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mGOOGLE_SERVICE_CONFIG[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mSERVICE_ACCOUNT_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mSERVICE_ACCOUNT_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mSERVICE_ACCOUNT_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mSERVICE_ACCOUNT_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mSERVICE_ACCOUNT_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mRAILS_ENV[0m, [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mSERVICE_ACCOUNT_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mSERVICE_ACCOUNT_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mSERVICE_ACCOUNT_KEY[0m
+[dotenv] Loaded [33m.env[0m
+[dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mSERVICE_ACCOUNT_KEY[0m
+[dotenv] Loaded [33m.env[0m
