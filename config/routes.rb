@@ -1,11 +1,7 @@
 Rails.application.routes.draw do
-  get "home_page/index"
-  get "home_page/show"
-  get "home_page/create"
-  get "home_page/update"
-  get "home_page/destroy"
   resources :tickets
   resources :technicans
+  resources :home_page
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   # Reveal health status on /up that returns 200 if the app boots with no exceptions, otherwise 500.
