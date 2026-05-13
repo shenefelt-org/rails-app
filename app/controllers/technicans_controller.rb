@@ -4,10 +4,10 @@ class TechnicansController < ApplicationController
   # GET /technicans or /technicans.json
   def index
     @technicans = Technican.all
-    render json:{
+    render json: {
       message: "hi boo",
       data: @technicans
-    } 
+    }
   end
 
   # GET /technicans/1 or /technicans/1.json

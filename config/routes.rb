@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+  get "home_page/index"
+  get "home_page/show"
+  get "home_page/create"
+  get "home_page/update"
+  get "home_page/destroy"
   resources :tickets
   resources :technicans
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html

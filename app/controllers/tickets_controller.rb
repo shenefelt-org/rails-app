@@ -19,10 +19,9 @@ class TicketsController < ApplicationController
 
     if @ticket.save
       redirect_to tickets_path, notice: "Created!"
-    else 
+    else
       render :new, status: :unprocessable_entity
     end
-
   end
 
   def update
@@ -32,7 +31,7 @@ class TicketsController < ApplicationController
   end
 
 
-  private 
+  private
 
   def ticket_params
     params.require(:ticket).permit(:title, :priority, :status, :body)
