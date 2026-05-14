@@ -1,2 +1,67 @@
-<h1>Tickets#show</h1>
-<p>Find me in app/views/tickets/show.html.erb</p>
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+AR+Guides&display=swap" rel="stylesheet">
+
+
+    <style>
+        .ticket {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        #notice {
+            color: green;
+            font-weight: bold;
+            margin: 10px 0;
+            text-align: center;
+            font-family: "Playwrite AR Guides", cursive;
+        }
+    </style>
+
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Priority</th>
+                    <th>Status</th>
+                    <th>Body</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <%= @ticket.title %>
+                    </td>
+                    <td>
+                        <%= @ticket.priority %>
+                    </td>
+                    <td>
+                        <%= @ticket.status %>
+                    </td>
+                    <td>
+                        <%= @ticket.body %>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2>Responses</h2>
+        <% @ticket.tech_ticket_responses.each do |response| %>
+            <div class="ticket">
+                <p><strong>Responder:</strong>
+                    <%= response.technican.name %>
+                </p>
+                <p><strong>Response:</strong>
+                    <%= response.response_text %>
+                </p>
+                <p><strong>Responded at:</strong>
+                    <%= response.created_at.strftime("%B %d, %Y %H:%M") %>
+                </p>
+            </div>
+            <% end %>
+    </div>
+
+</head>

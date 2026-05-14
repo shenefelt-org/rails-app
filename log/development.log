@@ -166,3 +166,4 @@ Migrating to CreateTechnicans (20260511184556)
 [dotenv] Loaded [33m.env[0m
 [dotenv] Set [36mSECRET_KEY_BASE[0m, [36mRAILS_SERVE_STATIC_FILES[0m, [36mRAILS_LOG_TO_STDOUT[0m, [36mDATABASE_URL[0m, [36mPOSTGRES_DB[0m, [36mPOSTGRES_USER[0m, [36mPOSTGRES_PASSWORD[0m, [36mPORT[0m, [36mRAILS_MAX_THREADS[0m, [36mWEB_CONCURRENCY[0m, [36mSPREADSHEET_ID[0m, [36mSERVICE_ACCOUNT_KEY[0m
 [dotenv] Loaded [33m.env[0m
+[dotenv] Loaded [33m.env[0m

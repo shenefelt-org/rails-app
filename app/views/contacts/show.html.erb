@@ -1,0 +1,13 @@
+<p
+  style="color: rebeccapurple; font-weight: bold; margin: 10px 0; text-align: center; font-family: Verdana, sans-serif;">
+  <%= notice %>
+</p>
+
+<%= render @contact %>
+
+  <div>
+    <%= link_to "Edit this contact" , edit_contact_path(@contact) %> |
+      <%= link_to "Back to contacts" , contacts_path %>
+
+        <%= button_to "Destroy this contact" , @contact, method: :delete %>
+  </div>

@@ -1,0 +1,26 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head>
+<p
+  style="color: rebeccapurple; font-weight: bold; margin: 10px 0; text-align: center; font-family: Verdana, sans-serif;">
+  <%= notice %>
+</p>
+
+<% content_for :title, "Contacts" %>
+
+  <div id="banner"
+    style="background-color: lightblue; padding: 20px; text-align: center; font-family: Arial, sans-serif;">
+    <h1 style="margin: 0;">contacts</h1>
+  </div>
+
+
+  <div id="contacts">
+    <% @contacts.each do |contact| %>
+      <%= render contact %>
+        <p>
+          <%= link_to "Show this contact" , contact %>
+        </p>
+        <% end %>
+  </div>
+
+  <%= link_to "New contact" , new_contact_path %>

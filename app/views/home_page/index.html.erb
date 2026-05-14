@@ -1,2 +1,31 @@
-<h1>HomePage#index</h1>
-<p>Find me in app/views/home_page/index.html.erb</p>
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head>
+
+<nav>
+    <ul>
+        <li>
+            <%= link_to "Home" , root_path %>
+        </li>
+        <li>
+            <%= link_to "Contacts" , contacts_path %>
+        </li>
+        <li>
+            <%= link_to "Tickets" , tickets_path %>
+        </li>
+    </ul>
+</nav>
+<hgroup>
+    <h2>Welcome to the Home Page</h2>
+    <h3>Explore our features and offerings</h3>
+</hgroup>
+
+<section>
+    <p>
+        This is the home page of our application. Here you can find an overview of our services and navigate to
+        different sections such as Contacts and Tickets.
+    </p>
+    <p>
+        Feel free to explore and let us know if you have any questions!
+    </p>
+</section>

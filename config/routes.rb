@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :contacts
   resources :tickets
   resources :technicans
   resources :home_page

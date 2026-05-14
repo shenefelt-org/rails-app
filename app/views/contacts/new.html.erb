@@ -1,0 +1,43 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head>
+
+
+<% content_for :title, "New contact" %>
+
+  <main class="container">
+    <h1 style="margin-bottom: var(--pico-spacing);">New Contact</h1>
+
+    <%= form_with(model: @contact) do |f| %>
+      <div class="grid">
+        <label for="name">
+          Name
+          <%= f.text_field :name, id: "name" , placeholder: "Your name" , required: true %>
+        </label>
+
+        <label for="email">
+          Email
+          <%= f.email_field :email, id: "email" , placeholder: "email@example.com" , required: true %>
+        </label>
+      </div>
+
+      <label for="message">
+        Message
+        <%= f.text_area :message, id: "message" , placeholder: "How can we help?" , rows: 6, required: true %>
+      </label>
+
+      <footer style="margin-top: var(--pico-spacing);">
+        <%= f.submit "Send Message" , class: "primary" %>
+      </footer>
+      <% end %>
+
+        <hr />
+
+        <nav>
+          <ul>
+            <li>
+              <%= link_to "Back to contacts" , contacts_path, class: "secondary" %>
+            </li>
+          </ul>
+        </nav>
+  </main>

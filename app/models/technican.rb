@@ -1,6 +1,6 @@
 class Technican < ApplicationRecord
     validates :name, presence: true
 
-    has_many :tech_tickets, dependent: :destroy
-    has_many :tickets, through: :tech_tickets
+    has_many :tech_ticket_responses, dependent: :destroy
+    has_many :tickets, through: :tech_ticket_responses
 end
